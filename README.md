@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm Vincent &nbsp;
   <a href="https://www.linkedin.com/in/vngs1208" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vngs1208" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vngs1208" height="25" width="30" />
   </a>
 </h1>
 
