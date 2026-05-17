@@ -1,30 +1,25 @@
-# Hi 👋, I'm Vincent Ng
+<h1 align="center">
+  Hi 👋, I'm Vincent Ng &nbsp;
+  <a href="https://www.linkedin.com/in/vngs1208" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vngs1208" height="30" width="40" />
+  </a>
+</h1>
 
-### A passionate AI Enthusiast from 🇲🇾
+<h3 align="center">A passionate AI Enthusiast from 🇲🇾</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinngs1208&label=Profile%20views&color=0e75b6&style=flat" alt="vinngs1208" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=vinngs1208&title=-PullRequest,-Reviews&row=1&theme=onestar" alt="vinngs1208" />
   </a>
 </p>
 
----
-
-### 🔗 Connect with me:
-
-<p align="left">
-  <a href="https://github.com/vinngs1208" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vinngs1208" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/vngs1208" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vngs1208" height="30" width="40" />
-  </a>
+<p align="center">
   <a href="https://twitter.com/vngs1208" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vngs1208" height="30" width="40" />
+    <img src="https://img.shields.io/twitter/follow/vngs1208?logo=twitter&style=for-the-badge" alt="vngs1208" />
   </a>
 </p>
 
@@ -32,7 +27,7 @@
 
 ### 🛠️ Languages and Tools:
 
-<p align="left">
+<p align="center">
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/>
   </a>
