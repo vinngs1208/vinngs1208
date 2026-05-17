@@ -1,13 +1,13 @@
 <h1 align="center">
   Hi 👋, I'm Vincent Ng &nbsp;
   <a href="https://www.linkedin.com/in/vngs1208" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vngs1208" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vngs1208" height="25" width="25" />
   </a>
 </h1>
 
 <h3 align="left">A passionate AI Enthusiast from 🇲🇾</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=vinngs1208&label=Profile%20views&color=0e75b6&style=flat" alt="vinngs1208" />
 </p>
 
