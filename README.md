@@ -12,12 +12,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/vngs1208" target="blank">
-    <img src="https://img.shields.io/twitter/follow/vngs1208?logo=twitter&style=for-the-badge" alt="vngs1208" />
-  </a>
-</p>
-
 ---
 
 ### 🔗 Connect with me:
