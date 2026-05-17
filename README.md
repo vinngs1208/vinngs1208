@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vinngs1208" alt="vinngs1208" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vinngs1208&exclude=PullRequest,Reviews" alt="vinngs1208" />
   </a>
 </p>
 
@@ -115,18 +115,8 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 🔥 GitHub Streak:
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinngs1208&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinngs1208&show_icons=true&locale=en&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
-</p>
-
-<br clear="both"/>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinngs1208&theme=tokyonight" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinngs1208&background=0D1117&border=FF4500&stroke=FF4500&ring=FF4500&fire=FFA500&currStreakNum=FF6B35&sideNums=FF4500&currStreakLabel=FFA500&sideLabels=FF8C00&dates=FF6B35" alt="GitHub Streak" />
 </p>
