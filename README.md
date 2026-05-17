@@ -1,101 +1,26 @@
-	
-version	"1.0.0"
-exportedAt	"2026-05-17T13:30:00.524Z"
-profile	
-title	"vinngs1208"
-subtitle	"A passionate AI Enthusiast from 🇲🇾"
-currentWork	""
-currentLearn	""
-collaborateOn	""
-helpWith	""
-ama	""
-contact	""
-funFact	""
-visitorsBadge	true
-badgeStyle	"flat"
-badgeColor	"0e75b6"
-badgeLabel	"Profile views"
-githubProfileTrophy	true
-githubStats	true
-githubStatsOptions	
-theme	""
-titleColor	""
-textColor	""
-bgColor	""
-hideBorder	false
-cacheSeconds	null
-locale	"en"
-topLanguages	true
-topLanguagesOptions	
-theme	""
-titleColor	""
-textColor	""
-bgColor	""
-hideBorder	false
-cacheSeconds	null
-locale	"en"
-streakStats	true
-streakStatsOptions	
-theme	""
-devDynamicBlogs	false
-mediumDynamicBlogs	false
-rssDynamicBlogs	false
-links	
-currentWork	""
-collaborateOn	""
-helpWith	""
-portfolio	""
-blog	""
-resume	""
-social	
-github	"vinngs1208"
-dev	""
-linkedin	"https://www.linkedin.com/in/vngs1208"
-codepen	""
-stackoverflow	""
-kaggle	""
-codesandbox	""
-fb	""
-instagram	""
-twitter	"https://x.com/vngs1208"
-dribbble	""
-behance	""
-medium	""
-youtube	""
-codechef	""
-hackerrank	""
-codeforces	""
-leetcode	""
-topcoder	""
-hackerearth	""
-geeks_for_geeks	""
-discord	""
-rssurl	""
-twitterBadge	true
-support	
-buyMeACoffee	""
-skills	
-0	"anaconda"
-1	"css3"
-2	"django"
-3	"figma"
-4	"flask"
-5	"gcp"
-6	"git"
-7	"hive"
-8	"html5"
-9	"huggingface"
-10	"jupyter"
-11	"keras"
-12	"linux"
-13	"matplotlib"
-14	"mysql"
-15	"numpy"
-16	"pandas"
-17	"python"
-18	"pytorch"
-19	"redis"
-20	"scala"
-21	"scikit_learn"
-22	"seaborn"
-23	"tensorflow"
+# Hi 👋, I'm vinngs1208
+
+### A passionate AI Enthusiast from 🇲🇾
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinngs1208&label=Profile views&color=0e75b6&style=flat" alt="vinngs1208" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinngs1208" alt="vinngs1208" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/https://x.com/vngs1208" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/vngs1208?logo=twitter&style=for-the-badge" alt="https://x.com/vngs1208" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/vinngs1208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vinngs1208" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vngs1208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vngs1208" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/vngs1208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/vngs1208" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hive" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/apachehive/FDEE21" alt="hive" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scala" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scala" alt="scala" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinngs1208&show_icons=true&locale=en&layout=compact" alt="vinngs1208" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinngs1208&show_icons=true&locale=en" alt="vinngs1208" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinngs1208&" alt="vinngs1208" /></p>
+
