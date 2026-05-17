@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vinngs1208&exclude=PullRequest,Reviews" alt="vinngs1208" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vinngs1208&title=-PullRequest,-Reviews&row=1&theme=onestar" alt="vinngs1208" />
   </a>
 </p>
 
