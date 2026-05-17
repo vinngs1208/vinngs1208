@@ -21,80 +21,110 @@
 
 ### 🛠️ Languages and Tools:
 
-<p align="center">
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/apachehive/FDEE21" alt="hive" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-  </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=scala" alt="scala" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="60">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="32" height="32" />
+      <br>Python
+    </td>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="32" height="32" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="32" height="32" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="60">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="32" height="32" alt="Keras" />
+      <br>Keras
+    </td>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=kafka" width="32" height="32" alt="Kafka" />
+      <br>Kafka
+    </td>
+    <td align="center" width="60">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" height="32" alt="NumPy" />
+      <br>NumPy
+    </td>
+    <td align="center" width="60">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" height="32" alt="Pandas" />
+      <br>Pandas
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="60">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="32" height="32" alt="Matplotlib" />
+      <br>Matplotlib
+    </td>
+    <td align="center" width="60">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="32" height="32" alt="Jupyter" />
+      <br>Jupyter
+    </td>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=anaconda" width="32" height="32" alt="Anaconda" />
+      <br>Anaconda
+    </td>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=django" width="32" height="32" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=flask" width="32" height="32" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=html" width="32" height="32" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=css" width="32" height="32" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=figma" width="32" height="32" alt="Figma" />
+      <br>Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=git" width="32" height="32" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=gcp" width="32" height="32" alt="GCP" />
+      <br>GCP
+    </td>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=mysql" width="32" height="32" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=redis" width="32" height="32" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=linux" width="32" height="32" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=scala" width="32" height="32" alt="Scala" />
+      <br>Scala
+    </td>
+    <td align="center" width="60">
+      <img src="https://cdn.simpleicons.org/apachehive/FDEE21" width="32" height="32" alt="Hive" />
+      <br>Hive
+    </td>
+    <td align="center" width="60">
+      <img src="https://skillicons.dev/icons?i=vscode" width="32" height="32" alt="VSCode" />
+      <br>VSCode
+    </td>
+        </td>
+    <td align="center" width="60">
+      <img src="https://cdn.simpleicons.org/huggingface" width="32" height="32" alt="HuggingFace" />
+      <br>HuggingFace
+  </tr>
+</table>
 
 ---
 
