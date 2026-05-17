@@ -51,12 +51,12 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" height="32" alt="Pandas" />
       <br>Pandas
     </td>
-  </tr>
-  <tr>
     <td align="center" width="60">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="32" height="32" alt="Matplotlib" />
       <br>Matplotlib
     </td>
+  </tr>
+  <tr>
     <td align="center" width="60">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="32" height="32" alt="Jupyter" />
       <br>Jupyter
@@ -85,12 +85,12 @@
       <img src="https://skillicons.dev/icons?i=figma" width="32" height="32" alt="Figma" />
       <br>Figma
     </td>
-  </tr>
-  <tr>
     <td align="center" width="60">
       <img src="https://skillicons.dev/icons?i=git" width="32" height="32" alt="Git" />
       <br>Git
     </td>
+  </tr>
+  <tr>
     <td align="center" width="60">
       <img src="https://skillicons.dev/icons?i=gcp" width="32" height="32" alt="GCP" />
       <br>GCP
@@ -119,10 +119,10 @@
       <img src="https://skillicons.dev/icons?i=vscode" width="32" height="32" alt="VSCode" />
       <br>VSCode
     </td>
-        </td>
     <td align="center" width="60">
       <img src="https://cdn.simpleicons.org/huggingface" width="32" height="32" alt="HuggingFace" />
       <br>HuggingFace
+    </td>
   </tr>
 </table>
 
